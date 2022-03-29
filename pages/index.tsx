@@ -2,6 +2,7 @@ import Link from 'next/link';
 import MainLayout from '../componets/layouts/MainLayout';
 
 export default function Home() {
+  
   return (
     <MainLayout>
       <h1>Home</h1>
